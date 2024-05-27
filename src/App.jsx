@@ -110,7 +110,10 @@ function App() {
     <>
       <Container>
         <div className="column justify-content-center align-items-center">
-          <Image style={{ width: "230px" }} src="../public/images/small.webp" />
+          <Image
+            style={{ width: "430px" }}
+            src="https://www.kimnezamanicatetti.com/wp-content/uploads/2019/01/alisveris-arabasi-tekerlekli-alisveris-sepeti.jpg"
+          />
           <Form className="d-flex justify-content-center align-items-center ps-4">
             <div>
               <Form.Group
